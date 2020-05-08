@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\새 폴더\test\bin\Debug\test.exe.config
+C:\Users\user\Desktop\새 폴더\test\bin\Debug\test.exe
+C:\Users\user\Desktop\새 폴더\test\bin\Debug\test.pdb
+C:\Users\user\Desktop\새 폴더\test\obj\Debug\test.exe
+C:\Users\user\Desktop\새 폴더\test\obj\Debug\test.pdb
